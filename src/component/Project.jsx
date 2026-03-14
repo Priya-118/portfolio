@@ -7,36 +7,19 @@ const projects = [
     description: "Networking website",
     Image: "/Screenshot 2026-03-08 115816.png",
     tags: ["Node.js", "Express.js", "MongoDB", "Backend Project"],
-    demoUrl: "#",
-    GithubUrl: "#"
+    demoUrl: "https://skillswap-platform-5juc.onrender.com",
+    GithubUrl: "https://github.com/Priya-118/Skillswap-Platform"
   },
    {
-    id: 1,
-    title: "SkillSwap",
-    description: "Networking website",
-    Image: "/Screenshot 2026-03-08 115816.png",
+    id: 2,
+    title: "Airbnb",
+    description: "A platform where users can explore and discover different places to stay and view property listings.",
+    Image: "/Screenshot 2026-03-14 154750.png",
     tags: ["Node.js", "Express.js", "MongoDB", "Backend Project"],
-    demoUrl: "#",
-    GithubUrl: "#"
+    demoUrl: "https://airbnb-bla9.onrender.com/",
+    GithubUrl: "https://github.com/Priya-118/Airbnb"
   },
-   {
-    id: 1,
-    title: "SkillSwap",
-    description: "Networking website",
-    Image: "/Screenshot 2026-03-08 115816.png",
-    tags: ["Node.js", "Express.js", "MongoDB", "Backend Project"],
-    demoUrl: "#",
-    GithubUrl: "#"
-  },
-   {
-    id: 1,
-    title: "SkillSwap",
-    description: "Networking website",
-    Image: "/Screenshot 2026-03-08 115816.png",
-    tags: ["Node.js", "Express.js", "MongoDB", "Backend Project"],
-    demoUrl: "#",
-    GithubUrl: "#"
-  },
+   
 ];
 
 export const Project = () => {

@@ -88,7 +88,7 @@ const skillList = [
   {name:"VS Code", category:"tools"},
   {name:"MongoDB Atlas", category:"tools"},
   {name:"Postman", category:"tools"},
-  {name:"AWS EC2", category:"tools"},
+  {name:"AWS S3", category:"tools"},
 ];
 
 const categories = ["All","Frontend","Backend","Tools"]
